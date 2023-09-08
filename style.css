@@ -28,7 +28,7 @@ header {
 }
 
 input[type="text"] {
-  width: 80%;
+  width: 95%;
   padding: 20px;
   margin-bottom: 10px;
   border: 3px solid #8d8888;
@@ -51,6 +51,7 @@ button {
   flex-direction: column; /* Optional, if you want items stacked vertically */
   align-items: center; /* Center items vertically */
   justify-content: center;
+  text-align: center;
 }
 
 .button {
@@ -72,8 +73,8 @@ button {
 }
 
 .language-picker select {
-  padding: 5px;
-  font-size: 14px;
+  padding: 8px;
+  font-size: 18px;
 }
 
 
