@@ -1,4 +1,5 @@
-﻿1,Tokyo,35.6897,139.6922,Japan,primary,37732000
+﻿ID,City,Longitude,Latitude,Country,Capital,Population
+1,Tokyo,35.6897,139.6922,Japan,primary,37732000
 2,Jakarta,-6.175,106.8275,Indonesia,primary,33756000
 3,Delhi,28.61,77.23,India,admin,32226000
 4,Guangzhou,23.13,113.26,China,admin,26940000

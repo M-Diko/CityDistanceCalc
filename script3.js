@@ -32,12 +32,12 @@ const languageSelect = document.getElementById('languageSelect');
                 default:
                     alert('Ulwimi alaziwa');
             }
-        });
+});
 
 
 
 
-        submitButton.addEventListener('click', () => {
+submitButton.addEventListener('click', () => {
             const value1 = city1.value;
             const value2 = city2.value;
 
@@ -73,4 +73,4 @@ const languageSelect = document.getElementById('languageSelect');
                 alert('Zombini iindawo zegalelo kufuneka zizaliswe.');
             }
 
-        });
+});

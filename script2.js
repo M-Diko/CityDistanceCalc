@@ -32,12 +32,12 @@ const languageSelect = document.getElementById('languageSelect');
                 default:
                     alert('언어가 인식되지 않습니다');
             }
-        });
+});
 
 
 
 
-        submitButton.addEventListener('click', () => {
+submitButton.addEventListener('click', () => {
             const value1 = city1.value;
             const value2 = city2.value;
 
@@ -73,4 +73,4 @@ const languageSelect = document.getElementById('languageSelect');
                 alert('두 입력 필드를 모두 채워야 합니다.');
             }
 
-        });
+});
